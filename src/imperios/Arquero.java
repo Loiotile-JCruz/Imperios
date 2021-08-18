@@ -3,7 +3,7 @@ package imperios;
 public class Arquero extends Unidad {
 
 	private int daño=7;
-	private int flechas=100;
+	private int flechas=10;
 	
 	public Arquero(Posicion posicion) {
 		super(posicion);
